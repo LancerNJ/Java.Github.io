@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+ <div>
+	<img src="nareshit_logo.jpeg" style="align:center;">
+	</br>
+	<h1 style="color:blue;text-align:center;"> Welcome in NareshIT </h1>
+	</br>
+	<a href="About_Us.html">About Us</a>
+<div>
+ </body>
+</html>
